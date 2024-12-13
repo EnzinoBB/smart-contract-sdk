@@ -1,0 +1,3 @@
+[submodule "smart-contract-api"]
+	path = smart-contract-api
+	url = https://github.com/CREDITSCOM/smart-contract-api
