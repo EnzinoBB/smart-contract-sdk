@@ -1,0 +1,11 @@
+.project
+smart-contract-api
+.settings/org.eclipse.m2e.core.prefs
+sc-sdk/.project
+.vscode/settings.json
+sc-sdk/.classpath
+sc-sdk/.settings/org.eclipse.core.resources.prefs
+sc-sdk/.settings/org.eclipse.jdt.apt.core.prefs
+sc-sdk/.settings/org.eclipse.jdt.core.prefs
+sc-sdk/.settings/org.eclipse.m2e.core.prefs
+sc-sdk/target

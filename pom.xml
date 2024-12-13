@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.credits</groupId>
+  <artifactId>smart-contract-sdk</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>smart-contract-sdk</name>
+  <description>Smart Contract SDK</description>
+
+  <properties>
+		<javaVersion>11</javaVersion>
+		<buildNumber>0</buildNumber>
+	</properties>
+
+  <modules>
+    <module>smart-contract-api</module>
+    <module>sc-sdk</module>
+  </modules>
+</project>
